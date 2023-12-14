@@ -1,5 +1,7 @@
 package lruproject.personal;
 
+//CREATE A HARD CODED LIST OF ACCEPTABLE ITEMS OF CLOTHING
+
 public class ClothingItem {
     private String description = "";
     private String type = "";
