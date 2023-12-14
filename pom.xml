@@ -8,22 +8,26 @@
   <name>LRU-clothes</name>
   <url>http://maven.apache.org</url>
   <dependencies>
+
     <dependency>
         <groupId>org.junit.jupiter</groupId>
         <artifactId>junit-jupiter-api</artifactId>
         <version>5.8.2</version> <!-- Use the latest version available -->
         <scope>test</scope>
     </dependency>
+
     <dependency>
         <groupId>org.junit.jupiter</groupId>
         <artifactId>junit-jupiter-engine</artifactId>
         <version>5.8.2</version> <!-- Use the latest version available -->
         <scope>test</scope>
     </dependency>
+
     <dependency>
       <groupId>com.google.googlejavaformat</groupId>
       <artifactId>google-java-format</artifactId>
       <version>1.12.0</version> <!-- Use the latest version available -->
     </dependency>
+    
   </dependencies>
 </project>
